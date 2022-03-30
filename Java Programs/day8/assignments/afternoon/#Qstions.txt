@@ -1,0 +1,18 @@
+1.Write a program to take take two strings as an input from the user and check
+if the second one is a substring of the first.
+
+2.Write a program to take input of a String and also take in a number of characters as the
+user wishes and check if they are present in the String.
+
+3.Write a program to take input of a String and convert it into a character array and reverse the array,
+and to again make that reversed character array as a String and display it.
+
+4.Write a program to check for the occurance of a particular character in a string and display howmany times it has occured.
+note: take the String  and the character to be checked as a input from the user.
+
+5.Write a program to take an input of a string with multiple words and convert it into a string array,
+and check if every element of that array is a Palindrome.
+Note: Palindrome is a word which when reveresed also is the same.
+example:-
+MOM
+
