@@ -29,6 +29,8 @@ public class JdbcDemo {
 				System.out.println(myRs.getString("last_name") + ", " + myRs.getString("first_name"));
 			}
 		}
+		
+		// 1234
 		catch (Exception exc) {
 			exc.printStackTrace();
 		}
